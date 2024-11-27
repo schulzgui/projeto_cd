@@ -32,3 +32,7 @@ Este é um sistema de loja implementado com arquitetura de microsserviços usand
   - `servidor_central.py`: Servidor central
   - `interface_usuario.py`: Interface com o usuário
 - `main.py`: Arquivo principal de execução
+
+## Apresentação
+
+https://www.canva.com/design/DAGXnyODHts/JNyei4dT-Dcraaj9dIRgQA/view?utm_content=DAGXnyODHts&utm_campaign=designshare&utm_medium=link&utm_source=editor
